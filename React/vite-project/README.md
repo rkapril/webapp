@@ -1,4 +1,4 @@
-### How to create react via Vite
+### How to create React via Vite
 
 ```
 npm create vite@latest
