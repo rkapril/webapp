@@ -9,7 +9,7 @@ function App() {
     return Object.keys(data[0]);
   };
   return (
-    <div>
+    <div className="App">
       <h1>Table Components</h1>
       <h2>Table 1</h2>
       <Table theadData={getHeadings(data1)} tbodyData={data1} />
