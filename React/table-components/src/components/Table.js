@@ -20,11 +20,11 @@ export default function Table({ theadData, tbodyData }) {
       </thead>
 
       <tbody>
-        {tbodyData.map((row, index) => {
+        {tbodyData.map((row) => {
           return (
-            <tr key={index}>
+            <tr>
               {theadData.map((key) => {
-                return <td key={row[key]}>{row[key]}</td>;
+                return <td>{row[key]}</td>;
               })}
             </tr>
           );
