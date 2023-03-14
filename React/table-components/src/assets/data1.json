@@ -1,0 +1,32 @@
+[
+  {
+    "first_name": "Carline",
+    "last_name": "Manterfield",
+    "email": "cmanterfield0@umich.edu",
+    "gender": "Female"
+  },
+  {
+    "first_name": "Dell",
+    "last_name": "O'Moylane",
+    "email": "domoylane1@geocities.jp",
+    "gender": "Male"
+  },
+  {
+    "first_name": "Erin",
+    "last_name": "Falkus",
+    "email": "efalkus2@dagondesign.com",
+    "gender": "Male"
+  },
+  {
+    "first_name": "Corliss",
+    "last_name": "Backwell",
+    "email": "cbackwell3@unblog.fr",
+    "gender": "Female"
+  },
+  {
+    "first_name": "Derick",
+    "last_name": "Penwarden",
+    "email": "dpenwarden4@nasa.gov",
+    "gender": "Male"
+  }
+]

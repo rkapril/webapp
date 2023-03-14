@@ -1,0 +1,32 @@
+[
+  {
+    "first_name": "Rick",
+    "last_name": "Dewdeny",
+    "email": "rdewdeny5@redcross.org",
+    "gender": "Male"
+  },
+  {
+    "first_name": "Clarinda",
+    "last_name": "Bayston",
+    "email": "cbayston6@illinois.edu",
+    "gender": "Female"
+  },
+  {
+    "first_name": "Norris",
+    "last_name": "O'Neal",
+    "email": "noneal7@domainmarket.com",
+    "gender": "Male"
+  },
+  {
+    "first_name": "Hamel",
+    "last_name": "Ingray",
+    "email": "hingray8@ocn.ne.jp",
+    "gender": "Male"
+  },
+  {
+    "first_name": "Leeland",
+    "last_name": "Hillum",
+    "email": "lhillum9@senate.gov",
+    "gender": "Non-binary"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "first_name": "Lethia",
+    "last_name": "Sleit",
+    "email": "lsleita@blogs.com",
+    "gender": "Female"
+
+  },
+  {
+    "first_name": "Steffane",
+    "last_name": "Grigolon",
+    "email": "sgrigolonb@skype.com",
+    "gender": "Female"
+ 
+  },
+  {
+    "first_name": "Sallie",
+    "last_name": "Elson",
+    "email": "selsonc@newyorker.com",
+    "gender": "Female"
+
+  },
+  {
+    "first_name": "Forbes",
+    "last_name": "MacAdam",
+    "email": "fmacadamd@miitbeian.gov.cn",
+    "gender": "Male"
+
+  },
+  {
+    "first_name": "Vaughn",
+    "last_name": "Simonsen",
+    "email": "vsimonsene@techcrunch.com",
+    "gender": "Male"
+
+  }
+]
