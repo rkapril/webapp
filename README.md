@@ -1,2 +1,2 @@
 1. Public Holidays (SG) 
-    - https://publicholidays2023sg.s3.ap-southeast-1.amazonaws.com/WebApp/Public+Holidays+(SG)/index.html
+    - https://public-holidays-2023-sg.s3.ap-southeast-1.amazonaws.com/index.html
